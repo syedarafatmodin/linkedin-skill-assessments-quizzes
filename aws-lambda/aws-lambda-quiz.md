@@ -349,7 +349,7 @@
 
 #### Q50. Lambda can read events from which other AWS services?
 
-- [ ] Kinesis, S3, and SQS
+- [x] Kinesis, S3, and SQS
 - [ ] Kinesis, S3, and SNS
 - [ ] Kinesis, DynamoDB, and SNS
 - [ ] Kinesis, DynamoDB, and SQS
